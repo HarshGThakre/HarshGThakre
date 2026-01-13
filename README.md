@@ -1,6 +1,6 @@
 # Hi there, I'm Harsh! 👋
 
-### 🎓 Computer Science Student || Aspiring 📊 Data Analyst OR a 📈 Business Analyst ||
+### 🎓 Computer Science Student | Aspiring 📊 Data Analyst OR a 📈 Business Analyst |
 
 ---
 
