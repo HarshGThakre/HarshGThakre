@@ -10,6 +10,7 @@
 - ⚙️ **Problem Solver:** Currently mastering Data Structures & Algorithms (DSA) to solve complex computational problems.
 - 🔭 I’m building projects that bridge the gap between user experience and robust backend logic.
 - 🎯 My goal for 2026 is to contribute to open-source and build impactful software solutions.
+- 📈 Having Intrest in Trading and Stock-Market. 
 
 ## 🛠 Tech Stack (Learning)
 
