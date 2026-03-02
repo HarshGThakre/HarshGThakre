@@ -35,7 +35,7 @@
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [Coming Soon, Stay Connected]
+- **LinkedIn:** [Coming Soon,Work in progress Stay Connected]
 - **Collaboration:** Always open to discussing Software Design, DSA, or Full-Stack projects!
 
 "Software is a great combination between artistry and engineering." 🚀
