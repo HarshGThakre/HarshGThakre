@@ -8,9 +8,9 @@
 - 👨‍🎓 I’m a **Computer Science Student** focused on building scalable software and efficient algorithms.
 - 💻 **Software Engineering:** Passionate about clean code, Object-Oriented Programming (OOP), and system architecture.
 - ⚙️ **Problem Solver:** Currently mastering Data Structures & Algorithms (DSA) to solve complex computational problems.
-- 🔭 I’m building projects that bridge the gap between user experience and robust backend logic.
-- 🎯 My goal for 2026 is to contribute to open-source and build impactful software solutions.
-- 📈 Having Intrest in Trading and Stock-Market. 
+- 🔭 *I’m building projects that bridge the gap between user experience and robust backend logic.*
+- 🎯 *My goal for 2026 is to contribute to open-source and build impactful software solutions.*
+- 📈 *Having Intrest in Trading and Stock-Market.*
 
 ## 🛠 Tech Stack (Learning)
 
@@ -35,7 +35,7 @@
 ---
 
 ## 📫 How to reach me
-- **LinkedIn:** [Coming Soon,Work in progress Stay Connected]
+- **LinkedIn:** *[Coming Soon,Work in progress Stay Connected]*
 - **Collaboration:** Always open to discussing Software Design, DSA, or Full-Stack projects!
 
 "Software is a great combination between artistry and engineering." 🚀
